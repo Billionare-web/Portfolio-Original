@@ -275,7 +275,7 @@ const GetInTouch = () => {
               </svg>
             </Link>
             <Link
-              to={"https://github.com/Mrweb2011"}
+              to={"https://github.com/Billionare-web"}
               className="Git"
               target="_blank"
             >
@@ -331,7 +331,7 @@ const GetInTouch = () => {
               </svg>
             </Link>
             <Link
-              to={"https://www.instagram.com/webmr_uz"}
+              to={"https://www.instagram.com/Billionare_web"}
               target="_blank"
               className="fig"
             >

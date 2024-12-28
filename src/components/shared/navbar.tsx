@@ -35,7 +35,7 @@ const Navbar = () => {
                   onClick={() => {
                     window.scroll({
                       behavior: "smooth",
-                      top: 3000,
+                      top: 2250,
                     });
                   }}
                 >
@@ -48,7 +48,7 @@ const Navbar = () => {
                   onClick={() => {
                     window.scroll({
                       behavior: "smooth",
-                      top: 4000,
+                      top: 3950,
                     });
                   }}
                 >
@@ -73,7 +73,7 @@ const Navbar = () => {
           <div className="flex gap-4">
             <ModeToggle />
 
-            <Link to={"https://t.me/Mr_dewelopement"} target="_blank">
+            <Link to={"https://t.me/Billionare_web"} target="_blank">
               <Button className="rounded-xl h-[36px]" type="submit">
                 Send Message
               </Button>
