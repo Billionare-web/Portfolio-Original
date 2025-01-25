@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="Navbar-section flex w-full py-4 items-center justify-between md:px-4">
         <div className="nav-logo">
           <Link to={"/"}>
-            <h1 className="text-3xl font-bold">{`<Mrweb />`}</h1>
+            <h1 className="text-3xl font-bold">{`<Billionare_web />`}</h1>
           </Link>
         </div>
         <div className="nav-right flex gap-12 items-center md:hidden">
@@ -162,7 +162,7 @@ const Navbar = () => {
                 <div className="">
                   <div className="nav-head z-20 w-full pb-5 p-4">
                     <div className="nav-logo">
-                      <h1 className="text-2xl font-bold">{`<Mrweb />`}</h1>
+                      <h1 className="text-2xl font-bold">{`<Billionare_web />`}</h1>
                     </div>
                   </div>
                   <Separator />
@@ -230,7 +230,7 @@ const Navbar = () => {
                   <div className="w-full mt-4 flex flex-col px-4">
                     <ModeToggle />
 
-                    <Link to={"https://t.me/QXumoyun"} target="_blank">
+                    <Link to={"https://t.me/billionare_web"} target="_blank">
                       <Button
                         className="rounded-xl h-[36px] bg-foreground mt-14 w-full"
                         type="submit"

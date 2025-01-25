@@ -648,7 +648,7 @@ export const Texnologies = [
 export const Works = [
   {
     image:
-      "https://freeimage.host/i/2GGCMEQ",
+      "https://i.postimg.cc/bvPw7yMZ/Screenshot-2025-01-25-102752.png",
     title: "IT House Courses",
     text: "Online kurslar uchun. Har xil online kurslarni sotib olib ulardan foydalansa bo'ladi.",
     works: [
@@ -662,7 +662,7 @@ export const Works = [
         work: "Shadcn/ui",
       },
     ],
-    link: "https://it-house-online.netlify.app/",
+    link: "https://it-house-edu.vercel.app",
     movement: "Creative Agency",
     duration: "300",
   },
@@ -684,7 +684,7 @@ export const Works = [
         work: "React-router-dom",
       },
     ],
-    link: "https://",
+    link: "https://work-out-rose.vercel.app",
     movement: "Work Out",
     duration: "300",
   },
