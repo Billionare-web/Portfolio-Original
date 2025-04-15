@@ -688,9 +688,9 @@ export const Works = [
     duration: "300",
   },
   {
-    image: "https://i.postimg.cc/d3RmP55L/2.png",
-    title: "Olcha.uz",
-    text: "Olcha - internet do'koni - oson muddatli to'lov O'zbekiston bo'ylab",
+    image: "https://ibb.co/WvJdGSdq",
+    title: "IT House Edu",
+    text: "IT House O'zuv markazi sayti FrontEnd",
     works: [
       {
         work: "Html",
@@ -699,44 +699,16 @@ export const Works = [
         work: "Css",
       },
       {
-        work: "Figma",
-      },
-      {
         work: "Git",
       },
       {
         work: "JavaScript",
       },
-    ],
-    link: "https://olcha-uz-pink.vercel.app/",
-    movement: "zoom-in",
-    duration: "300",
-  },
-  {
-    image: "https://i.postimg.cc/0yyGFdDy/3.png",
-    title: "Creative Agency",
-    text: "",
-    works: [
       {
-        work: "React",
-      },
-      {
-        work: "Css",
-      },
-      {
-        work: "JavaScript",
-      },
-      {
-        work: "Figma",
-      },
-      {
-        work: "Git",
-      },
-      {
-        work: "React-router-dom",
+        work: "Next JS",
       },
     ],
-    link: "https://creative-agency-gray-eight.vercel.app/",
+    link: "https://ithouseedu.vercel.app",
     movement: "zoom-in",
     duration: "300",
   },

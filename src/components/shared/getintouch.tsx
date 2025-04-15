@@ -228,7 +228,7 @@ const GetInTouch = () => {
         </div>
         <div className="flex flex-col gap-y-2 items-center">
           <h3 className="text-foreground/80 text-center">
-            You may also find me on these platforms!
+            Meni quyidagi platformalarda ham topishingiz mumkin!
           </h3>
           <div className="icons flex gap-4">
             <Link
