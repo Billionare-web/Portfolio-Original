@@ -1,5 +1,5 @@
 import { Badge } from "../ui/badge";
-import Me from "@/assets/men.jpg";
+import Me from "@/assets/men.png";
 
 const About = () => {
   return (

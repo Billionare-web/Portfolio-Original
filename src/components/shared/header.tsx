@@ -1,7 +1,7 @@
 import Lottie from "lottie-react";
 import HI from "@/assets/Animation - 1714226094945 (1).json";
 import Dot from "@/assets/Animation - 1714227535168.json";
-import Me from "@/assets/men.jpg";
+import Me from "@/assets/men.png";
 import { Link } from "react-router-dom";
 import { FaInstagram } from "react-icons/fa";
 import { useEffect } from "react";
