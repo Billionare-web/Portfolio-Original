@@ -12,7 +12,7 @@ const About = () => {
           variant="default"
           className="rounded-xl bg-accent text-foreground py-1 px-4"
         >
-          About me
+          Men haqimda
         </Badge>
         <div className="flex items-center justify-between pt-12 w-full md:flex-col max-w-[1216px]">
           <div className="about-image flex items-start justify-start w-[584px] h-[694px]  md:hidden ">
@@ -37,53 +37,58 @@ const About = () => {
           </div>
           <div className="text max-w-[584px] text-foreground/65 gap-4 flex flex-col mt-10">
             <h1 className="text-3xl font-semibold text-foreground pb-2">
-              Curious about me? Here you have it:
+              Men haqimda qiziqyapsizmi? Marhamat, mana bu yerda:
             </h1>
             <h3>
-              I'm a passionate, self-motivated designer specializing in
-              full-stack development (React.js & Node.js, Express.js). I am
-              passionate about bringing the technical and visual aspects of
-              digital products to life. User experience, pixel-perfect design,
-              and writing clear, readable, high-performance code are all
-              important to me.
+              Men – ishtiyoqli va o‘zini o‘zi rag‘batlantira oladigan
+              dizaynerman, React.js, Node.js va Express.js asosida full-stack
+              dasturlash bo‘yicha ixtisoslashganman. Raqamli mahsulotlarning
+              texnik va vizual jihatlarini hayotga tatbiq etish meni
+              ilhomlantiradi. Foydalanuvchi tajribasi, mukammal dizayn va aniq,
+              o‘qilishi oson hamda yuqori samarali kod yozish men uchun
+              muhimdir.
             </h3>
             <h3>
-              I started my journey as a web developer in 2024 and since then I
-              have continued to grow and develop as a developer, taking on new
-              challenges and learning the latest technologies along the way.
-              Now, since I started my web development journey at the early age
-              of sixteen, I have been building modern web applications using
-              modern technologies like Next.js, TypeScript, Express.js,
-              Tailwindcss, JavaScript and many more.
+              Men 2024-yilda web dasturchilik safarimni boshlaganman va
+              o‘shandan beri yangi chaqiriqlarga duch kelib, zamonaviy
+              texnologiyalarni o‘rganib, rivoqlanib boryapman. Endilikda, web
+              dasturchilikni o‘n uch yoshimda boshlaganimdan beri Next.js,
+              TypeScript, Express.js, Tailwind CSS, JavaScript kabi zamonaviy
+              texnologiyalar yordamida zamonaviy web ilovalar yaratib
+              kelmoqdaman.
             </h3>
             <h3>
-              I am a very forward thinker and enjoy working on products from
-              idea to development.
+              Men juda ilg‘or fikrlaydigan insonman va mahsulot ustida
+              g‘oyasidan tortib to to‘liq ishlab chiqilishigacha ishlashdan
+              zavqlanaman.
             </h3>
             <h3>
-              When I'm not in full developer mode, you can find me scrolling
-              through instagram or telegram, witnessing the journey of startups,
-              or spending my free time. You can follow me on Instagram where I
-              share tech tidbits and build in public, or you can follow me on
-              GitHub.
+              Men to‘liq dasturchilik rejimida bo‘lmaganimda, meni Instagram
+              yoki Telegram’da aylanish, startaplarning rivojlanish yo‘lini
+              kuzatish yoki bo‘sh vaqtimni o‘tkazayotgan holda topishingiz
+              mumkin. Siz meni Instagram’da kuzatishingiz mumkin — u yerda men
+              texnologiyaga oid foydali ma’lumotlar bilan o‘rtoqlashaman va
+              ochiqchasiga loyihalarim ustida ishlayman. Yoki GitHub sahifam
+              orqali ham meni kuzatishingiz mumkin.
             </h3>
-            <h3>Finally, some quick bits about me.</h3>
+            <h3>Va nihoyat, men haqimda qisqacha ma’lumotlar:</h3>
             <div className="flex items-center justify-between">
               <ul
                 role="list"
                 className="marker:text-foreground/65 list-disc pl-4"
               >
-                <li>Jr. Web developer</li>
-                <li>Part-time freelancer</li>
+                <li>Jr. Web dasturchi</li>
+                <li>Yarim stavkali frilanser</li>
               </ul>
               <ul role="list" className="marker:text-foreground/65 list-disc">
-                <li>Avid learner</li>
-                <li>Senior aspiring</li>
+                <li>Ilmga chanqoq o‘rganuvchi</li>
+                <li>Katta maqsadga intiluvchi kadr</li>
               </ul>
             </div>
             <h3>
-              Last thing, I'm available to work with the team, so feel free to
-              reach out and say hi! I promise I won't bite 😉
+              Oxirgi narsa, men jamoa bilan ishlashga tayyorman, shuning uchun
+              bemalol murojaat qiling va salom ayting! Vada qilamanki,
+              tishlamayman 😉
             </h3>
           </div>
         </div>

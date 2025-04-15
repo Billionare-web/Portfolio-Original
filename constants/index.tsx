@@ -647,8 +647,7 @@ export const Texnologies = [
 ];
 export const Works = [
   {
-    image:
-      "https://i.postimg.cc/bvPw7yMZ/Screenshot-2025-01-25-102752.png",
+    image: "https://i.postimg.cc/bvPw7yMZ/Screenshot-2025-01-25-102752.png",
     title: "IT House Courses",
     text: "Online kurslar uchun. Har xil online kurslarni sotib olib ulardan foydalansa bo'ladi.",
     works: [
@@ -745,7 +744,7 @@ export const Works = [
 export const testimonials = [
   {
     img: "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_640.png",
-    text: "“Job well done! I am really impressed. He is very very good at what he does:) I would recommend Sagar and will rehire in the future for Frontend development.”",
+    text: "“Ish juda yaxshi bajarilgan! Men juda hayron qoldim. U o'z ishini juda yaxshi biladi :) Men Sagarni tavsiya qilaman va kelajakda Frontend rivojlantirish uchun yana ishga olishni rejalashtiraman.”",
     name: "John Doe",
     founder: "Founder - xyz.com",
     movement: "zoom-in",
@@ -753,7 +752,7 @@ export const testimonials = [
   },
   {
     img: "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_640.png",
-    text: "“Great guy, highly recommended for any COMPLEX front-end development job! His skills are top-notch and he will be an amazing addition to any team.”",
+    text: "“Ajoyib yigit, har qanday murakkab Front-end rivojlantirish ishlarida tavsiya qilaman! Uning ko'nikmalari yuqori darajada va u har qanday jamoaga ajoyib qo'shilish bo'ladi.”",
     name: "John Doe",
     founder: "Founder - abc.com",
     movement: "zoom-in",
@@ -761,7 +760,7 @@ export const testimonials = [
   },
   {
     img: "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_640.png",
-    text: "“Sagar was extremely easy and pleasant to work with and he truly cares about the project being a success. Sagar has a high level of knowledge and was able to work on my MERN stack application without any issues.”",
+    text: "“Sagar bilan ishlash juda oson va yoqimli bo'ldi, u loyihaning muvaffaqiyatli bo'lishiga chin dildan qiziqadi. Sagar yuqori darajadagi bilimga ega va mening MERN stack ilovamda hech qanday muammosiz ishlashga muvaffaq bo'ldi.”",
     name: "John Doe",
     founder: "Freelancer",
     movement: "zoom-in",

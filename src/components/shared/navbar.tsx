@@ -26,7 +26,7 @@ const Navbar = () => {
                     });
                   }}
                 >
-                  About
+                  Haqimda
                 </Link>
               </li>
               <li className="hover:text-blue-700 ease-in-out duration-150">
@@ -39,7 +39,7 @@ const Navbar = () => {
                     });
                   }}
                 >
-                  Work
+                  Ish
                 </Link>
               </li>
               <li className="hover:text-blue-700 ease-in-out duration-150">
@@ -52,7 +52,7 @@ const Navbar = () => {
                     });
                   }}
                 >
-                  Testimonials
+                  Sharhlar
                 </Link>
               </li>
               <li className="hover:text-blue-700 ease-in-out duration-150">
@@ -65,7 +65,7 @@ const Navbar = () => {
                     });
                   }}
                 >
-                  Contact
+                  Aloqa
                 </Link>
               </li>
             </ul>
@@ -75,7 +75,7 @@ const Navbar = () => {
 
             <Link to={"https://t.me/Billionare_web"} target="_blank">
               <Button className="rounded-xl h-[36px]" type="submit">
-                Send Message
+                Xabar yuborish
               </Button>
             </Link>
           </div>
@@ -179,7 +179,7 @@ const Navbar = () => {
                         });
                       }}
                     >
-                      About
+                      Haqimda
                     </Link>
                   </li>
                   <li className="hover:text-blue-700 ease-in-out duration-150">
@@ -193,7 +193,7 @@ const Navbar = () => {
                         });
                       }}
                     >
-                      Work
+                      Ish
                     </Link>
                   </li>
                   <li className="hover:text-blue-700 ease-in-out duration-150">
@@ -207,7 +207,7 @@ const Navbar = () => {
                         });
                       }}
                     >
-                      Testimonials
+                      Sharhlar
                     </Link>
                   </li>
                   <li className="hover:text-blue-700 ease-in-out duration-150">
@@ -221,7 +221,7 @@ const Navbar = () => {
                         });
                       }}
                     >
-                      Contact
+                      Aloqa
                     </Link>
                   </li>
                 </ul>
@@ -235,7 +235,7 @@ const Navbar = () => {
                         className="rounded-xl h-[36px] bg-foreground mt-14 w-full"
                         type="submit"
                       >
-                        Send Message
+                        Xabar yuborish
                       </Button>
                     </Link>
                   </div>

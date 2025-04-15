@@ -29,11 +29,12 @@ const GetInTouch = () => {
             variant="default"
             className="rounded-xl bg-accent text-foreground py-1 px-4"
           >
-            Get in touch
+            Aloqa qilish
           </Badge>
           <h2 className="text-lg font-medium text-foreground/65 mt-4 text-center max-w-[576px]">
-            What’s next? Feel free to reach out to me if you're looking for a
-            developer, have a query, or simply want to connect.
+            Keyingi qadam nima? Agar siz dasturchi izlayotgan bo‘lsangiz,
+            savolingiz bo‘lsa yoki shunchaki bog‘lanmoqchi bo‘lsangiz, bemalol
+            murojaat qiling.
           </h2>
         </div>
         <div className="copy-row flex flex-col gap-y-5 md:gap-y-2">

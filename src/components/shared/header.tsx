@@ -23,15 +23,15 @@ const Header = () => {
                 loop={true}
                 className="w-[100px] h-[100px] -ml-3.5 md:w-[70px] md:h-[70px] md:-mt-3 stroke-foreground stroke-2"
               />
-              I’m Muhammadrasul <span className="md:hidden">👋</span>
+              Men Muhammadrasulman. <span className="md:hidden">👋</span>
             </h1>
             <h4 className="font-light max-w-[768px]">
-              I specialize in Web development, creating fast, accessible, and
-              visually appealing websites that provide exceptional digital
-              experiences. Although I'm yet a full-stack developer, I'm close to
-              reaching that goal. With one year of experience in web
-              development, I continue to find excitement in every project as if
-              it were my first.
+              Men veb-ishlab chiqishda mutaxassisman, tez, kirish mumkin bo‘lgan
+              va vizual jihatdan jozibali saytlar yarataman, ular ajoyib raqamli
+              tajribalarni taqdim etadi. Hozircha to‘liq stack dasturchi
+              emasman, ammo bu maqsadga yaqinlashyapman. Veb-ishlab chiqishda
+              bir yillik tajribaga egaman va har bir loyiha men uchun birinchi
+              bo‘lgandek hayajonlanib ishlayman.
             </h4>
           </div>
           <div className="adress flex flex-col gap-2">
@@ -92,7 +92,7 @@ const Header = () => {
                 loop={true}
                 className="w-[23px] h-[20px]"
               />
-              Available for new projects
+              Yangi loyihalar uchun mavjudman.
             </h3>
           </div>
           <div className="icons flex gap-4">

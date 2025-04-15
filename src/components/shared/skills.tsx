@@ -10,10 +10,11 @@ const Skills = () => {
           variant="default"
           className="rounded-xl bg-accent text-foreground py-1 px-4"
         >
-          Skills
+          Ko'nikmalar
         </Badge>
         <h2 className="text-lg font-medium text-foreground/65 mt-4 text-center">
-          The skills, tools and technologies I am really good at:
+          Men haqiqatan ham yaxshi bilgan ko'nikmalar, vositalar va
+          texnologiyalar:
         </h2>
         <div className="Skills-body flex flex-col items-center justify-center w-full mt-12">
           <div className="Skills-row grid grid-flow-row grid-cols-6 gap-x-24 gap-y-12 md:grid-cols-3 md:gap-x-10 md:gap-y-4">

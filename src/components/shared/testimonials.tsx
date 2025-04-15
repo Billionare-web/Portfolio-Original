@@ -11,10 +11,10 @@ const Testimonials = () => {
             variant="default"
             className="rounded-xl bg-accent text-foreground py-1 px-4"
           >
-            Testimonials
+            Sharhlar
           </Badge>
           <h2 className="text-lg font-medium text-foreground/65 mt-4 text-center">
-            Nice things people have said about me:
+            Menga aytilgan yaxshi so'zlar:
           </h2>
         </div>
         <div className="testimonials-row grid grid-cols-3 gap-x-12 md:grid-cols-1 md:gap-y-6">

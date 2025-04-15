@@ -12,10 +12,10 @@ const Work = () => {
             variant="default"
             className="rounded-xl bg-accent text-foreground py-1 px-4"
           >
-            Work
+            Ish
           </Badge>
           <h2 className="text-lg font-medium text-foreground/65 mt-4 text-center">
-            Some of the noteworthy projects I have built:
+            Yaratgan ba'zi e'tiborga molik loyihalarim:
           </h2>
         </div>
         <div className="works-row flex flex-col items-center justify-center w-full gap-y-12">
