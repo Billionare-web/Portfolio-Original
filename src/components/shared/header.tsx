@@ -19,7 +19,7 @@ const Header = () => {
           <div className="">
             <h1 className="text-[60px] font-bold flex md:text-4xl">
               <Lottie
-                animationData={HI}
+                animationData={Salom}
                 loop={true}
                 className="w-[100px] h-[100px] -ml-3.5 md:w-[70px] md:h-[70px] md:-mt-3 stroke-foreground stroke-2"
               />
